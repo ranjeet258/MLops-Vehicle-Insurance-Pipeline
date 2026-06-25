@@ -5,7 +5,8 @@ Welcome to this MLOps project, designed to demonstrate a robust pipeline for man
 ---
 
 ## Pipeline
-![pipeline](Diagrams/whole_architecture.png)
+![pipeline](Diagrams/Pipeline.png)
+
 ### Project Directory Tree
 ```text
 .
